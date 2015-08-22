@@ -49,8 +49,12 @@ to Centralized approach. It's not Subversion, but it can be used similar.
 
 # Expectations
 
-* Not much, just one: I expect from this presentation you can take some
-knowledge and apply it to your frequent Git routine.
+* I expect from this presentation you can take some knowledge and apply it to
+your frequent Git routine.
+
+???
+
+Just one expectation.
 
 ---
 
