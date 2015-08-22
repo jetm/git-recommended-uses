@@ -24,22 +24,26 @@ hundreds 😊.
 
 # Why Git Recommended Uses?
 
-* By my experience, I have seen smart people struggle while are learning Git.
+1. People struggle while are learning Git.
 
-* Git is a powerful tool, but it has some hard hills to climb.
+2. Git is a powerful tool, but it has some hard hills to climb.
 
-* At the beginning Git there was a poor documentation with severals ways to get same
-result.
+3. At the beginning poor documentation and severals ways to get same result.
 
-* Git is not Subversion. Git redefined how to use a Control Version software and
-the world was used to Centralized approach.
+4. Git is not Subversion.
 
 ???
 
-When are too many options, usually you get confused.
+1. By experience I have seen many smart people struggle while are learning Git.
+Some people compare Git with Hitler.
 
-With each Git release the documentation is getting better, but still are the
+2. When are too many options, usually you get confused.
+
+3. With each Git release the documentation is getting better, but still are the
 options to get same result..
+
+4. Git redefined how to use a Control Version software and the world was used
+to Centralized approach. It's not Subversion, but it can be used similar.
 
 ---
 
