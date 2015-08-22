@@ -79,6 +79,23 @@ started to change.
 
 ---
 
+# Why Git and no another SCM
+
+** PUT HERE GRAPHIC SCM COMPARISON **
+
+???
+
+* Git won SCM war.
+
+* When Torvalds designed Git, he already has experience with BitKeeper in the big
+Linux Kernel code base. He studied all defects of CVS, Subversion, Darcs,
+Baazar, Monotone and others.
+
+* Be distributed, simple designed, making quickly and clean merges, all together
+was a big deal on that time.
+
+---
+
 # References
 
 * This presentation: https://github.com/jetm/git-recommended-uses
