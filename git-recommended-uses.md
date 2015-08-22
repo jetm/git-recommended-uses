@@ -60,14 +60,22 @@ Just one expectation.
 
 # Little Git History
 
-* Created 10 years ago (2005) by Linus Torvalds.
+* Created in 2005 by Linus Torvalds and maintained by Junio Hamano.
 
-* Meaning git: "unpleasant person". Torvalds said: "I'm an egotistical bastard,
-and I name all my projects after myself. First 'Linux', now 'git'."
+* Meaning git: "unpleasant person".
 
-* Git arrived as a necessity after close accesses of Linux kernel developers to
-BitKeeper (SCM). Torvalds released the first Git version and the world of
-Control Version software started to change.
+* Git arrived as a necessity.
+
+???
+
+* Created 10 years ago, patches and many contributors and thousands contributions.
+
+* Torvalds said: "I'm an egotistical bastard, and I name all my projects after
+myself. First 'Linux', now 'git'."
+
+* After close accesses of Linux kernel developers to BitKeeper (SCM). Torvalds
+released the first Git version and the world of Control Version software
+started to change.
 
 ---
 
