@@ -96,6 +96,33 @@ was a big deal on that time.
 
 ---
 
+# Use latest Git version
+
+> ### $ sudo add-apt-repository ppa:git-core/ppa
+> ### $ sudo apt-get update
+> ### $ sudo apt-get install git
+
+???
+
+Assuming Ubuntu default Distribution.
+
+Problem to solve:
+
+> Ubuntu has a Git version is not updated frequently.
+
+Normally, people has fears to update software due to avoid a 'possible'
+breakdown system. Others are just lazy people. Git code has a strong Test Suite
+with thousands test cases.
+
+In all these years using Git, I have never lost information for update to the
+latest Git version.
+
+--
+
+# DEMO
+
+---
+
 # References
 
 * This presentation: https://github.com/jetm/git-recommended-uses
