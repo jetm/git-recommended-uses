@@ -22,7 +22,7 @@ utilities.
 
 ---
 
-# Why Git Recommended Uses?
+# Why 'Git Recommended Uses' presentation?
 
 1. People struggle while are learning Git.
 
