@@ -58,6 +58,18 @@ Just one expectation.
 
 ---
 
+# Introduction
+
+--
+
+### * Little Git History
+
+--
+
+### * Why Git and no another SCM
+
+---
+
 # Little Git History
 
 * Created in 2005 by Linus Torvalds and maintained by Junio Hamano.
