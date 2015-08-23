@@ -2,7 +2,7 @@ class: center, middle
 
 # Git Recommended Uses
 
-Another opinionated Git presentation
+Practices to get comfortable using and learning Git
 
 Javier Tiá / August 26, 2015
 
