@@ -17,8 +17,8 @@ utilities.
 
 * Migrated severals projects to Git from Clearcase, CVS and Subversion.
 
-* Solved hundreds of issues related to Git. Today I still do it, but no
-hundreds 😊.
+* Solved hundreds of issues helping people using Git. Today I still do it, but
+ no hundreds 😊.
 
 ---
 
