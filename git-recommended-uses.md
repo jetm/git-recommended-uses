@@ -108,7 +108,45 @@ was a big deal on that time.
 
 ---
 
-# Use latest Git version
+# How to self-study Git?
+
+* Mindset: Think Git as you are exploring a tree.
+
+* Get started with:
+
+  * http://try.github.io/
+
+  * http://gitimmersion.com/
+
+* Complement always with:
+
+  * `git help <COMMAND>` || `git help --all` || `git help --guides`
+
+  * Making questions with a Web searcher.
+
+  * Practice in a terminal.
+
+???
+
+Problem to solve:
+
+> How to learn Git by your self?
+
+Show hints commands to probe Git is a Tree
+
+With Internet: show the training sites
+
+Show how it works all `git help` commands.
+
+Make an example how to practice in terminal.
+
+--
+
+# DEMO
+
+---
+
+# Use latest stable Git version
 
 > ### $ sudo add-apt-repository ppa:git-core/ppa
 > ### $ sudo apt-get update
