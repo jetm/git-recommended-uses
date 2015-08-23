@@ -74,7 +74,7 @@ Just one expectation.
 
 * Created in 2005 by Linus Torvalds and maintained by Junio Hamano.
 
-* Meaning git: "unpleasant person".
+* Meaning 'git' as word: unpleasant person.
 
 * Git arrived as a necessity.
 
