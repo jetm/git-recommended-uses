@@ -161,6 +161,22 @@ latest stable Git version.
 
 ---
 
+#
+
+???
+
+Problem to solve:
+
+>
+
+Talk real life as we behaves.
+
+--
+
+# DEMO
+
+---
+
 # References
 
 * This presentation: https://github.com/jetm/git-recommended-uses
