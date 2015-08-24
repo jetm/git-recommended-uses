@@ -60,7 +60,7 @@ to Centralized approach. It's not Subversion, but it can be used similar.
 
 # Little Git History
 
-* Created in 2005 by Linus Torvalds and maintained by Junio Hamano.
+* Created in 2005 by Linus Torvalds and maintained today by Junio Hamano.
 
 * Meaning 'git' as word: unpleasant person.
 
