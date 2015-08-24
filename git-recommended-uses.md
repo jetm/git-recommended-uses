@@ -128,9 +128,7 @@ Show how it works all `git help` commands.
 
 Make an example how to practice in terminal.
 
---
-
-# DEMO
+DEMO
 
 ---
 
@@ -155,9 +153,7 @@ with thousands test cases.
 In all these years using Git, I have never lost information for update to the
 latest stable Git version.
 
---
-
-# DEMO
+DEMO
 
 ---
 
