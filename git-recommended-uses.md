@@ -22,6 +22,17 @@ utilities.
 
 ---
 
+# Expectations
+
+* I expect from this presentation you can take some knowledge and apply it to
+your frequent Git routine.
+
+???
+
+Just one expectation.
+
+---
+
 # Why 'Git Recommended Uses' presentation?
 
 1. People struggle while are learning Git.
@@ -44,29 +55,6 @@ options to get same result..
 
 4. Git redefined how to use a Control Version software and the world was used
 to Centralized approach. It's not Subversion, but it can be used similar.
-
----
-
-# Expectations
-
-* I expect from this presentation you can take some knowledge and apply it to
-your frequent Git routine.
-
-???
-
-Just one expectation.
-
----
-
-# Introduction
-
---
-
-### * Little Git History
-
---
-
-### * Why Git and no another SCM
 
 ---
 
