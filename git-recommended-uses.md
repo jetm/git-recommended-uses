@@ -191,5 +191,3 @@ class: center, middle
 
 # Questions?
 
-
-
