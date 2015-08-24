@@ -81,7 +81,7 @@ started to change.
 
 # Why Git and no another SCM
 
-** PUT HERE GRAPHIC SCM COMPARISON **
+.center[![Centered image](images/git-job-trends-indeed.com.png)]
 
 ???
 
