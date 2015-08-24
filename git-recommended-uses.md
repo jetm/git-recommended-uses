@@ -157,19 +157,19 @@ DEMO
 
 ---
 
-#
+# Get a better CLI prompt
+
+![Default-aligned image](images/jetm-terminal.png)
+
+https://github.com/nojhan/liquidprompt
 
 ???
 
 Problem to solve:
 
->
+> Know where are you while you're using Git in CLI
 
-Talk real life as we behaves.
-
---
-
-# DEMO
+DEMO
 
 ---
 
