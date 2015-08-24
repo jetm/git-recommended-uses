@@ -153,7 +153,7 @@ breakdown system. Others are just lazy people. Git code has a strong Test Suite
 with thousands test cases.
 
 In all these years using Git, I have never lost information for update to the
-latest Git version.
+latest stable Git version.
 
 --
 
