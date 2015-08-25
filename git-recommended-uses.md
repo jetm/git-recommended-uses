@@ -227,7 +227,11 @@ Problem to solve:
 
 Where you're using Git, you will type commands more than you could imagine.
 
+If you're looking yourself typing a command more than two times, you should
+thinking to create an alias.
+
 ---
+
 # References
 
 * This presentation: https://github.com/jetm/git-recommended-uses
