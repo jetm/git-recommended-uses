@@ -173,6 +173,24 @@ DEMO
 
 ---
 
+# Identify yourself
+
+<br />
+
+> ### $ git config --global user.name "__YOUR NAME__"
+
+> ### $ git config --global user.email "__YOUR EMAIL ADDRESS__"
+
+???
+
+Problem to solve:
+
+> Identify your commits with a proper authorship
+
+Remember now you are an author.
+
+---
+
 # Increase Git usability by leveraging *.gitconfig*
 
 > ### * Set per repository or global options.
