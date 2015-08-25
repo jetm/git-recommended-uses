@@ -191,6 +191,25 @@ Show how to Get, Set and Unset Git options.
 
 ---
 
+# Common Git aliases
+
+> #### $ git config --global alias.br branch
+> #### $ git config --global alias.ci commit
+> #### $ git config --global alias.co checkout
+> #### $ git config --global alias.st status
+> #### $ git config --global alias.ls ls-files
+> #### $ git config --global alias.rb rebase
+> #### $ git config --global alias.mg merge
+
+???
+
+Problem to solve:
+
+> Reduce keystrokes
+
+Where you're using Git, you will type commands more than you could imagine.
+
+---
 # References
 
 * This presentation: https://github.com/jetm/git-recommended-uses
