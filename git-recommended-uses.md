@@ -232,6 +232,39 @@ thinking to create an alias.
 
 ---
 
+# How to write a commit message
+
+Structure of a commit message:
+
+> Subject line<br/>
+> _BLANK LINE_<br/>
+> Body message
+
+Rules:
+
+1. Write subject line thinking: What am I doing?
+2. Use imperative mood in subject line: no -ing, -ed.
+3. Do not end subject line with a period.
+4. Limit subject line between 50 to 70 characters.
+5. Insert a blank line between subject line and body message.
+6. Write body message thinking: Why am I doing it? vs How am I doing it?
+7. Limit body message to 72 characters.
+
+???
+
+Problem to solve:
+
+> People write commit messages without care about it.
+
+If you find yourself struggling and thinking too much about your commit, it
+could be is too long all changes. Make it shorter.
+
+If it's too much rules, consider a good editor as helper, e.g.: Vim.
+
+DEMO
+
+---
+
 # References
 
 * This presentation: https://github.com/jetm/git-recommended-uses
