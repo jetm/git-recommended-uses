@@ -236,7 +236,7 @@ thinking to create an alias.
 
 Structure of a commit message:
 
-> Subject line<br/>
+ > Subject line<br/>
 > _BLANK LINE_<br/>
 > Body message
 
@@ -260,6 +260,27 @@ If you find yourself struggling and thinking too much about your commit, it
 could be is too long all changes. Make it shorter.
 
 If it's too much rules, consider a good editor as helper, e.g.: Vim.
+
+DEMO
+
+---
+
+# Use Interactive mode to commit
+
+> > ### $ git add --patch
+
+* It gives the user a chance to review the changes before commit them.
+
+* Help you to write the commit.
+
+???
+
+Problem to solve:
+
+> People gets confuse about how to commit changes
+
+Interactively choose hunks between the index and the work tree and add them to
+the index.
 
 DEMO
 
