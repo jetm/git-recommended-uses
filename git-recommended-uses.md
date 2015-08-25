@@ -286,6 +286,36 @@ DEMO
 
 ---
 
+# Merge vs Rebase
+
+* One of most controversial Git discussions, just search: Merge vs Rebase.
+
+* Know when use _merge_ or _rebase_ add significant added value. It produces a
+clean and semantically correct history graph.
+
+Rules:
+
+1. Work always with topic or temporal branch, avoid work over master or
+feature branch.
+
+2. Use `git merge` when incorporating an entire feature set into another branch,
+use `git rebase` for rest of cases.
+
+3. Golden rule: Never use `git rebase` over published changes, only over new
+and no pushed changes.
+
+???
+
+Problem to solve:
+
+> Extended confusion about when to use `git merge` or `git rebase`.
+
+Clarify rebase concept.
+
+DEMO
+
+---
+
 # References
 
 * This presentation: https://github.com/jetm/git-recommended-uses
