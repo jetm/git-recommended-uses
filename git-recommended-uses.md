@@ -236,7 +236,7 @@ thinking to create an alias.
 
 Structure of a commit message:
 
- > Subject line<br/>
+> Subject line<br/>
 > _BLANK LINE_<br/>
 > Body message
 
