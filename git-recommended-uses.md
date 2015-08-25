@@ -173,6 +173,24 @@ DEMO
 
 ---
 
+# Increase Git usability by leveraging *.gitconfig*
+
+> ### * Set per repository or global options.
+
+> ### * `git config` to Get, Set and Unset options.
+
+> ### * Don't forget look for more detail: `git help config`.
+
+???
+
+Problem to solve:
+
+> Teach how to take advantage of .gitconfig file
+
+Show how to Get, Set and Unset Git options.
+
+---
+
 # References
 
 * This presentation: https://github.com/jetm/git-recommended-uses
