@@ -316,6 +316,32 @@ DEMO
 
 ---
 
+# Keep a clean and correct Git history
+
+Always rebase your local commits and preserve all merges:
+
+> ### $ git config --global pull.rebase preserve
+
+> _Require Git v1.8.5+_
+
+<br />
+
+Only allow fast-forward merges:
+
+> ### $ git config --global merge.ff only
+
+???
+
+Problem to solve:
+
+> How to keep a clean and correct Git history.
+
+Clarify fast-forward merges.
+
+DEMO
+
+---
+
 # References
 
 * This presentation: https://github.com/jetm/git-recommended-uses
