@@ -595,6 +595,8 @@ DEMO
 
 * This presentation: https://github.com/jetm/git-recommended-uses/
 
+* Presentation made with: http://remarkjs.com/
+
 ## Contact information
 
 * javier.tia@gmail.com / javier.tia@hp.com
