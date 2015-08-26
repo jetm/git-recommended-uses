@@ -452,6 +452,8 @@ Using alias:
 
 > &nbsp; &nbsp;git checkout --ours $@ && git add $@; }; f"
 
+> $ git ours &lt;FILE&gt;
+
 --
 
 For repeated resolution of conflicts:
