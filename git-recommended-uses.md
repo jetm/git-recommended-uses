@@ -8,7 +8,7 @@ Javier Tiá / August 26, 2015
 
 ---
 
-# Who am I to talk about Git?
+## Who am I to talk about Git?
 
 * Using Git professionally since 2011.
 
@@ -22,7 +22,7 @@ utilities.
 
 ---
 
-# Expectations
+## Expectations
 
 * I expect from this presentation you can take some knowledge and apply it to
 your frequent Git routine.
@@ -33,7 +33,7 @@ Just one expectation.
 
 ---
 
-# Why 'Git Recommended Uses' presentation?
+## Why 'Git Recommended Uses' presentation?
 
 1. People struggle while are learning Git.
 
@@ -58,7 +58,7 @@ to Centralized approach. It's not Subversion, but it can be used similar.
 
 ---
 
-# Little Git History
+## Little Git History
 
 * Created in 2005 by Linus Torvalds and maintained today by Junio Hamano.
 
@@ -79,7 +79,7 @@ started to change.
 
 ---
 
-# Why Git and no another SCM
+## Why Git and no another SCM
 
 .center[![Centered image](images/git-job-trends-indeed.com.png)]
 
@@ -96,7 +96,7 @@ was a big deal on that time.
 
 ---
 
-# How to self-study Git?
+## How to self-study Git?
 
 * Mindset: Think Git as you are exploring a tree.
 
@@ -132,7 +132,7 @@ DEMO
 
 ---
 
-# Use latest stable Git version
+## Use latest stable Git version
 
 > ### $ sudo add-apt-repository ppa:git-core/ppa
 > ### $ sudo apt-get update
@@ -157,7 +157,7 @@ DEMO
 
 ---
 
-# Get a better CLI prompt
+## Get a better CLI prompt
 
 ![Default-aligned image](images/jetm-terminal.png)
 
@@ -173,7 +173,7 @@ DEMO
 
 ---
 
-# Identify yourself
+## Identify yourself
 
 <br />
 
@@ -191,7 +191,7 @@ Remember now you are an author.
 
 ---
 
-# Increase Git usability by leveraging *.gitconfig*
+## Increase Git usability by leveraging *.gitconfig*
 
 > ### * Set per repository or global options.
 
@@ -209,7 +209,7 @@ Show how to Get, Set and Unset Git options.
 
 ---
 
-# Common Git aliases
+## Common Git aliases
 
 > #### $ git config --global alias.br branch
 > #### $ git config --global alias.ci commit
@@ -232,7 +232,7 @@ thinking to create an alias.
 
 ---
 
-# How to write a commit message
+## How to write a commit message
 
 Structure of a commit message:
 
@@ -265,7 +265,7 @@ DEMO
 
 ---
 
-# Use Interactive mode to commit
+## Use Interactive mode to commit
 
 > > ### $ git add --patch
 
@@ -286,7 +286,7 @@ DEMO
 
 ---
 
-# Merge vs Rebase
+## Merge vs Rebase
 
 * One of most controversial Git discussions, just search: Merge vs Rebase.
 
@@ -348,7 +348,7 @@ DEMO
 
 ---
 
-# Resolving conflicts
+## Resolving conflicts
 
 `--ours` option: current branch changes checked out.
 
@@ -432,11 +432,11 @@ DEMO
 
 ---
 
-# References
+## References
 
 * This presentation: https://github.com/jetm/git-recommended-uses
 
-# Contact information
+## Contact information
 
 * javier.tia@gmail.com / javier.tia@hp.com
 
@@ -454,7 +454,7 @@ class: center, middle
 
 ---
 
-# Protect your bare repository
+## Protect your bare repository
 
 No rewriting history:
 
