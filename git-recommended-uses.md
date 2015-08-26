@@ -311,9 +311,9 @@ DEMO
 
 ## Merge vs Rebase
 
-* One of most controversial Git discussions, just search: Merge vs Rebase.
+One of most controversial Git discussions, just search: Merge vs Rebase.
 
-* Know when use _merge_ or _rebase_ add significant added value. It produces a
+Know when use _merge_ or _rebase_ add significant added value. It produces a
 clean and semantically correct history graph.
 
 Rules:
