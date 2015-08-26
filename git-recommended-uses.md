@@ -436,3 +436,18 @@ class: center, middle
 
 # Backup slides
 
+---
+
+# Protect your bare repository
+
+No rewriting history:
+
+> #### $ git config receive.denyNonFastForwards true
+
+No deleting history:
+
+> #### git config receive.denyDeletes true
+
+Check object consistency:
+
+> #### git config receive.fsckObjects true
