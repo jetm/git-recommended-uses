@@ -318,8 +318,8 @@ clean and semantically correct history graph.
 
 Rules:
 
-1. Work always with topic or temporal branch, avoid work over master or
-feature branch.
+1. Work always with topic or temporal branches, avoid work over master or
+features branches.
 
 2. Use `git merge` when incorporating an entire feature set into another branch,
 use `git rebase` for rest of cases.
