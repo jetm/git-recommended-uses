@@ -515,7 +515,7 @@ another branch and more.
 
 --
 
-Prevent unwanted deletions from `git reset --hard/--merge)`.
+Prevent unwanted deletions from `git reset --hard/--merge`.
 
 --
 
@@ -525,7 +525,7 @@ If stashed changes will live a long time, name it:
 
 --
 
-Don't forge to look in `git help stash` for further details.
+Don't forget to look in `git help stash` for further details.
 
 ???
 
