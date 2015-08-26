@@ -310,9 +310,15 @@ Problem to solve:
 
 > Extended confusion about when to use `git merge` or `git rebase`.
 
-Clarify rebase concept.
+Clarify rebase concept. Show it in next slide.
 
 DEMO
+
+---
+
+# Rebase concept
+
+.center[![Centered image](images/git-rebase.gif)]
 
 ---
 
