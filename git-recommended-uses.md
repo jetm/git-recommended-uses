@@ -615,7 +615,7 @@ class: center, middle
 
 ---
 
-## Protect your bare repository
+## Protect bare/server repositories
 
 No rewriting history:
 
@@ -628,3 +628,9 @@ No deleting history:
 Check object consistency:
 
 > $ git config receive.fsckObjects true
+
+???
+
+Problem to solve:
+
+> Rewrite history and lose information.
