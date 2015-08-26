@@ -251,11 +251,17 @@ Structure of a commit message:
 Rules:
 
 1. Write subject line thinking: What am I doing?
+
 2. Use imperative mood in subject line: no -ing, -ed.
+
 3. Do not end subject line with a period.
+
 4. Limit subject line between 50 to 70 characters.
+
 5. Insert a blank line between subject line and body message.
+
 6. Write body message thinking: Why am I doing it? vs How am I doing it?
+
 7. Limit body message to 72 characters.
 
 ???
