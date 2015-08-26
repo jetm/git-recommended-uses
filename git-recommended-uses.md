@@ -345,19 +345,32 @@ DEMO
 
 ---
 
-## Keep a clean and correct Git history
+## Keep clean and correct Git history
 
-Always rebase your local commits and preserve all merges:
+\* Always rebase your local commits and preserve all merges:
 
 > $ git config --global pull.rebase preserve
 
 > _Require Git v1.8.5+_
 
-<br />
+--
 
-Only allow fast-forward merges:
+\* For merging features and avoid lose the branch information of which a commit
+was originally made:
 
-> $ git config --global merge.ff only
+git | git config (Permanent) | git config (Just to master)
+:---:|:---:|:---:
+merge | merge.ff | branch.master.mergeoptions
+--no-ff FEATURE | false | --no-ff
+
+--
+
+\* For merging fixes use --ff-only to fast-forward:
+
+git | git config (Permanent) | git config (Just to master)
+:---:|:---:|:---:
+merge | merge.ff | branch.master.mergeoptions
+--ff-only FIX | only | --ff-only
 
 ???
 
