@@ -593,7 +593,7 @@ DEMO
 
 ## References
 
-* This presentation: https://github.com/jetm/git-recommended-uses
+* This presentation: https://github.com/jetm/git-recommended-uses/
 
 ## Contact information
 
