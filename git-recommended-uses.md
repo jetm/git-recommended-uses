@@ -195,11 +195,11 @@ Remember now you are an author.
 
 ## Increase Git usability by leveraging *.gitconfig*
 
-> ### * Set per repository or global options.
+> Set per repository or global options.
 
-> ### * `git config` to Get, Set and Unset options.
+> Use `git config` to Get, Set and Unset options.
 
-> ### * Don't forget look for more detail: `git help config`.
+> Don't forget look for more details: `git help config`.
 
 ???
 
