@@ -12,10 +12,16 @@ class: center, middle
 
 * Using Git professionally since 2011.
 
+--
+
 * Developed tools around Git: repo tool, WSSW Git Hooks and various little
 utilities.
 
+--
+
 * Migrated severals projects to Git from Clearcase, CVS and Subversion.
+
+--
 
 * Solved hundreds of issues helping people using Git. Today I still do it, but
  no hundreds 😊.
@@ -37,9 +43,15 @@ Just one expectation.
 
 1. People struggle while are learning Git.
 
+--
+
 2. Git is a powerful tool, but it has some hard hills to climb.
 
+--
+
 3. At the beginning poor documentation and severals ways to get same result.
+
+--
 
 4. Git is not Subversion.
 
@@ -62,7 +74,11 @@ to Centralized approach. It's not Subversion, but it can be used similar.
 
 * Created in 2005 by Linus Torvalds and maintained today by Junio Hamano.
 
+--
+
 * Meaning 'git' as word: unpleasant person.
+
+--
 
 * Git arrived as a necessity.
 
@@ -100,17 +116,25 @@ was a big deal on that time.
 
 * Mindset: Think Git as you are exploring a tree.
 
+--
+
 * Get started with:
 
   * http://try.github.io/
 
   * http://gitimmersion.com/
 
+--
+
 * Complement always with:
 
   * `git help <COMMAND>` || `git help --all` || `git help --guides`
 
+--
+
   * Making questions with a Web searcher.
+
+--
 
   * Practice in a terminal.
 
@@ -248,19 +272,33 @@ Structure of a commit message:
 > _BLANK LINE_<br/>
 > Body message
 
-Rules:
+--
+
+ Rules:
 
 1. Write subject line thinking: What am I doing?
 
+--
+
 2. Use imperative mood in subject line: no -ing, -ed.
+
+--
 
 3. Do not end subject line with a period.
 
+--
+
 4. Limit subject line between 50 to 70 characters.
+
+--
 
 5. Insert a blank line between subject line and body message.
 
+--
+
 6. Write body message thinking: Why am I doing it? vs How am I doing it?
+
+--
 
 7. Limit body message to 72 characters.
 
@@ -313,16 +351,24 @@ DEMO
 
 One of most controversial Git discussions, just search: Merge vs Rebase.
 
+--
+
 Know when use _merge_ or _rebase_ add significant added value. It produces a
 clean and semantically correct history graph.
 
-Rules:
+--
+
+ Rules:
 
 1. Work always with topic or temporal branches, avoid work over master or
 features branches.
 
+--
+
 2. Use `git merge` when incorporating an entire feature set into another branch,
 use `git rebase` for rest of cases.
+
+--
 
 3. Golden rule: Never use `git rebase` over published changes, only over new
 and no pushed changes.
