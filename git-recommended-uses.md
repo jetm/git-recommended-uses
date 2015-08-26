@@ -569,17 +569,23 @@ DEMO
 
 ---
 
-## Add colors helpers
+## Useful little recommendations
 
-Add color helpers to see easier what Git is doing:
+Add color helpers to read text easier and see what Git is doing:
 
 > $ git config --global color.ui true
+
+--
+
+Copy/move a file in an one commit. Git doesn't difference between removing
+files and changes in it.
 
 ???
 
 Problem to solve:
 
 > Reading huge walls of text can be difficult.
+> Clarify when a file was removed.
 
 DEMO
 
