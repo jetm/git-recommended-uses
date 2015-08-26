@@ -416,6 +416,22 @@ DEMO
 
 ---
 
+# Add colors helpers
+
+Add color helpers to see easier what Git is doing:
+
+> #### $ git config --global color.ui true
+
+???
+
+Problem to solve:
+
+> Reading huge walls of text can be difficult.
+
+DEMO
+
+---
+
 # References
 
 * This presentation: https://github.com/jetm/git-recommended-uses
