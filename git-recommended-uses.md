@@ -454,6 +454,44 @@ DEMO
 
 ---
 
+## Switch context at will
+
+Saves local modifications and produce a clean state:
+
+> $ git stash
+
+--
+
+Allows to switch context to solve issues like: fix a local commit, checkout
+another branch and more.
+
+--
+
+Prevent unwanted deletions from `git reset --hard/--merge)`.
+
+--
+
+If stashed changes will live a long time, name it:
+
+> $ git stash save 'NAME MESSAGE'
+
+--
+
+Don't forge to look in `git help stash` for further details.
+
+???
+
+Problem to solve:
+
+> Lose changes when you want to switch anoter branch or use `git reset
+--hard/--merge`
+
+Talk about `git stash list/show/drop/pop/clear/apply`
+
+DEMO
+
+---
+
 ## Add colors helpers
 
 Add color helpers to see easier what Git is doing:
