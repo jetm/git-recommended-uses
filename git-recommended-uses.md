@@ -386,6 +386,36 @@ Explain issues with '<<<<<<', '>>>>>>' or '======' in an Editor.
 
 DEMO
 
+---
+
+# Rebase interactive
+
+It allows to navigate for each commit deciding interactively what to do.
+
+> #### $ git rebase -i
+
+You can pick (or delete), reword commit message, edit code, squash, fixup or exec an
+command.
+
+--
+
+Automatically modify the rebase todo list:
+
+> #### $ git config --global rebase.autoSquash true
+
+???
+
+Problem to solve:
+
+> How to modify commits
+
+Clarify about pick, reword, edit, squash (merge commit message) and fixup
+(discard commit message) in rebase todo list.
+
+DEMO
+
+---
+
 # References
 
 * This presentation: https://github.com/jetm/git-recommended-uses
