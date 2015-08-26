@@ -281,11 +281,20 @@ DEMO
 
 ## Use Interactive mode to commit
 
-> > ### $ git add --patch
+Interactively choose hunks between the index and the work tree and add them to
+the index:
 
-* It gives the user a chance to review the changes before commit them.
+> $ git add --patch
 
-* Help you to write the commit.
+--
+
+It gives the user a chance to review the changes before commit them.
+
+--
+
+Consider use a shell alias:
+
+> $ alias giA='git add --patch'
 
 ???
 
