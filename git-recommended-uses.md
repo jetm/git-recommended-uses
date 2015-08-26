@@ -348,6 +348,44 @@ DEMO
 
 ---
 
+# Resolving conflicts
+
+`--ours` option: current branch changes checked out.
+
+`--theirs` option: changes coming in via merge or rebase.
+
+--
+
+Normal way:
+
+> #### $ git checkout --ours/--theirs <FILE>
+
+> #### $ git add <FILE>
+
+--
+
+Using alias:
+
+> #### $ git config --global alias.our = ours = "!f() { \
+
+> #### &nbsp; &nbsp;git checkout --ours $@ && git add $@; }; f"
+
+--
+
+For repeated resolution of conflicts:
+
+> #### $ git config --global rerere.enabled true
+
+???
+
+Problem to solve:
+
+> How to deal with conflict without using a Editor.
+
+Explain issues with '<<<<<<', '>>>>>>' or '======' in an Editor.
+
+DEMO
+
 # References
 
 * This presentation: https://github.com/jetm/git-recommended-uses
