@@ -134,13 +134,15 @@ DEMO
 
 ## Use latest stable Git version
 
-> ### $ sudo add-apt-repository ppa:git-core/ppa
-> ### $ sudo apt-get update
-> ### $ sudo apt-get install git
+Assuming Ubuntu as Distribution.
+
+> $ sudo add-apt-repository ppa:git-core/ppa
+
+> $ sudo apt-get update
+
+> $ sudo apt-get install git
 
 ???
-
-Assuming Ubuntu default Distribution.
 
 Problem to solve:
 
@@ -175,11 +177,11 @@ DEMO
 
 ## Identify yourself
 
-<br />
+Remember now you are an author. Identify yourself:
 
-> ### $ git config --global user.name "__YOUR NAME__"
+> $ git config --global user.name "__YOUR NAME__"
 
-> ### $ git config --global user.email "__YOUR EMAIL ADDRESS__"
+> $ git config --global user.email "__YOUR EMAIL ADDRESS__"
 
 ???
 
@@ -211,13 +213,19 @@ Show how to Get, Set and Unset Git options.
 
 ## Common Git aliases
 
-> #### $ git config --global alias.br branch
-> #### $ git config --global alias.ci commit
-> #### $ git config --global alias.co checkout
-> #### $ git config --global alias.st status
-> #### $ git config --global alias.ls ls-files
-> #### $ git config --global alias.rb rebase
-> #### $ git config --global alias.mg merge
+> $ git config --global alias.br branch
+
+> $ git config --global alias.ci commit
+
+> $ git config --global alias.co checkout
+
+> $ git config --global alias.st status
+
+> $ git config --global alias.ls ls-files
+
+> $ git config --global alias.rb rebase
+
+> $ git config --global alias.mg merge
 
 ???
 
@@ -316,17 +324,17 @@ DEMO
 
 ---
 
-# Rebase concept
+## Rebase concept
 
 .center[![Centered image](images/git-rebase.gif)]
 
 ---
 
-# Keep a clean and correct Git history
+## Keep a clean and correct Git history
 
 Always rebase your local commits and preserve all merges:
 
-> ### $ git config --global pull.rebase preserve
+> $ git config --global pull.rebase preserve
 
 > _Require Git v1.8.5+_
 
@@ -334,7 +342,7 @@ Always rebase your local commits and preserve all merges:
 
 Only allow fast-forward merges:
 
-> ### $ git config --global merge.ff only
+> $ git config --global merge.ff only
 
 ???
 
@@ -358,23 +366,23 @@ DEMO
 
 Normal way:
 
-> #### $ git checkout --ours/--theirs <FILE>
+> $ git checkout --ours/--theirs &lt;FILE&gt;
 
-> #### $ git add <FILE>
+> $ git add &lt;FILE&gt;
 
 --
 
 Using alias:
 
-> #### $ git config --global alias.our = ours = "!f() { \
+> $ git config --global alias.our = ours = "!f() { \
 
-> #### &nbsp; &nbsp;git checkout --ours $@ && git add $@; }; f"
+> &nbsp; &nbsp;git checkout --ours $@ && git add $@; }; f"
 
 --
 
 For repeated resolution of conflicts:
 
-> #### $ git config --global rerere.enabled true
+> $ git config --global rerere.enabled true
 
 ???
 
@@ -388,11 +396,13 @@ DEMO
 
 ---
 
-# Rebase interactive
+## Rebase interactive
 
 It allows to navigate for each commit deciding interactively what to do.
 
-> #### $ git rebase -i
+> $ git rebase -i
+
+--
 
 You can pick (or delete), reword commit message, edit code, squash, fixup or exec an
 command.
@@ -401,7 +411,7 @@ command.
 
 Automatically modify the rebase todo list:
 
-> #### $ git config --global rebase.autoSquash true
+> $ git config --global rebase.autoSquash true
 
 ???
 
@@ -416,11 +426,11 @@ DEMO
 
 ---
 
-# Add colors helpers
+## Add colors helpers
 
 Add color helpers to see easier what Git is doing:
 
-> #### $ git config --global color.ui true
+> $ git config --global color.ui true
 
 ???
 
@@ -458,12 +468,12 @@ class: center, middle
 
 No rewriting history:
 
-> #### $ git config receive.denyNonFastForwards true
+> $ git config receive.denyNonFastForwards true
 
 No deleting history:
 
-> #### git config receive.denyDeletes true
+> $ git config receive.denyDeletes true
 
 Check object consistency:
 
-> #### git config receive.fsckObjects true
+> $ git config receive.fsckObjects true
