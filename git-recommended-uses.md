@@ -2,9 +2,9 @@ class: center, middle
 
 # Git Recommended Uses
 
-Practices to get comfortable using and learning Git
+### Practices to get comfortable using and learning Git
 
-Javier Tiá / August 26, 2015
+### Javier Tiá / August 26, 2015
 
 ---
 
