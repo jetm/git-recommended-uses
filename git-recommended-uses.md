@@ -33,10 +33,6 @@ utilities.
 * I expect from this presentation you can take some knowledge and apply it to
 your frequent Git routine.
 
-???
-
-Just one expectation.
-
 ---
 
 ## Why 'Git Recommended Uses' presentation?
