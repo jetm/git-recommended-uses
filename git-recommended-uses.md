@@ -154,8 +154,6 @@ Show how it works all `git help` commands.
 
 Make an example how to practice in terminal.
 
-DEMO
-
 ---
 
 ## Use latest stable Git version
@@ -181,8 +179,6 @@ with thousands test cases.
 In all these years using Git, I have never lost information for update to the
 latest stable Git version.
 
-DEMO
-
 ---
 
 ## Get a better CLI prompt
@@ -196,8 +192,6 @@ https://github.com/nojhan/liquidprompt
 Problem to solve:
 
 > Know where are you while you're using Git in CLI
-
-DEMO
 
 ---
 
@@ -315,8 +309,6 @@ could be is too long all changes. Make it shorter.
 
 If it's too much rules, consider a good editor as helper, e.g.: Vim.
 
-DEMO
-
 ---
 
 ## Use Interactive mode to commit
@@ -344,8 +336,6 @@ Problem to solve:
 
 Interactively choose hunks between the index and the work tree and add them to
 the index.
-
-DEMO
 
 ---
 
@@ -382,8 +372,6 @@ Problem to solve:
 > Extended confusion about when to use `git merge` or `git rebase`.
 
 Clarify rebase concept. Show it in next slide.
-
-DEMO
 
 ---
 
@@ -428,8 +416,6 @@ Problem to solve:
 
 Clarify fast-forward merges.
 
-DEMO
-
 ---
 
 ## Resolving conflicts
@@ -470,8 +456,6 @@ Problem to solve:
 
 Explain issues with '<<<<<<', '>>>>>>' or '======' in an Editor.
 
-DEMO
-
 ---
 
 ## Rebase interactive
@@ -499,8 +483,6 @@ Problem to solve:
 
 Clarify about pick, reword, edit, squash (merge commit message) and fixup
 (discard commit message) in rebase todo list.
-
-DEMO
 
 ---
 
@@ -538,8 +520,6 @@ Problem to solve:
 
 Talk about `git stash list/show/drop/pop/clear/apply`
 
-DEMO
-
 ---
 
 ## Git clean
@@ -567,8 +547,6 @@ Problem to solve:
 
 Talk about `git clean` options.
 
-DEMO
-
 ---
 
 ## Useful little recommendations
@@ -588,8 +566,6 @@ Problem to solve:
 
 > Reading huge walls of text can be difficult.
 > Clarify when a file was removed.
-
-DEMO
 
 ---
 
