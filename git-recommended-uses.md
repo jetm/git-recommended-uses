@@ -124,6 +124,8 @@ was a big deal on that time.
 
   * http://gitimmersion.com/
 
+  * http://git-scm.com/book/
+
 --
 
 * Complement always with:
