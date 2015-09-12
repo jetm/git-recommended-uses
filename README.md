@@ -1,4 +1,5 @@
 # Git Recommended Uses
 
-Presentation about Git Recommended Uses (Work in Progress)
+Presentation Git Recommended Uses (Work in Progress)
 
+Presentation made using http://remarkjs.com/.
