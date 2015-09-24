@@ -237,6 +237,8 @@ Problem to solve:
 
 > Understand how `git reset` and `git checkout` works.
 
+Mention use of `git reset --patch`
+
 ---
 
 ## Common Git aliases
