@@ -317,6 +317,12 @@ could be is too long all changes. Make it shorter.
 
 If it's too much rules, consider a good editor as helper, e.g.: Vim.
 
+Mention to install fit-commit
+
+```sh
+$ gem install fit-commit
+```
+
 ---
 
 ## Use Interactive mode to commit
