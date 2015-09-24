@@ -227,6 +227,18 @@ Show how to Get, Set and Unset Git options.
 
 ---
 
+## Git Reset/Checkout
+
+.center[![Centered image](images/reset-workflow.png)]
+
+???
+
+Problem to solve:
+
+> Understand how `git reset` and `git checkout` works.
+
+---
+
 ## Common Git aliases
 
 > $ git config --global alias.br branch
