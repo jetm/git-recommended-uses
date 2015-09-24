@@ -585,7 +585,7 @@ Problem to solve:
 
 ## Contact information
 
-* javier.tia@gmail.com / javier.tia@hp.com
+* javier.tia@gmail.com / javier.tia@hpe.com
 
 ---
 
