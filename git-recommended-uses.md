@@ -325,6 +325,8 @@ Mention to install fit-commit
 $ gem install fit-commit
 ```
 
+Every commit should respond to this question: "When applied, this commit will:"
+
 ---
 
 ## Use Interactive mode to commit
