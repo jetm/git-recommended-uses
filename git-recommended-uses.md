@@ -270,6 +270,34 @@ thinking to create an alias.
 
 ---
 
+## Use Interactive mode to commit
+
+Interactively choose hunks between the index and the work tree and add them to
+the index:
+
+> $ git add --patch
+
+--
+
+It gives the user a chance to review the changes before commit them.
+
+--
+
+Consider use a shell alias:
+
+> $ alias giA='git add --patch'
+
+???
+
+Problem to solve:
+
+> People gets confuse about how to commit changes
+
+Interactively choose hunks between the index and the work tree and add them to
+the index.
+
+---
+
 ## How to write a commit message
 
 Structure of a commit message:
@@ -326,34 +354,6 @@ $ gem install fit-commit
 ```
 
 Every commit should respond to this question: "When applied, this commit will:"
-
----
-
-## Use Interactive mode to commit
-
-Interactively choose hunks between the index and the work tree and add them to
-the index:
-
-> $ git add --patch
-
---
-
-It gives the user a chance to review the changes before commit them.
-
---
-
-Consider use a shell alias:
-
-> $ alias giA='git add --patch'
-
-???
-
-Problem to solve:
-
-> People gets confuse about how to commit changes
-
-Interactively choose hunks between the index and the work tree and add them to
-the index.
 
 ---
 
