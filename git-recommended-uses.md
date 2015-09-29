@@ -436,6 +436,34 @@ Clarify fast-forward merges.
 
 ---
 
+## Rebase interactive
+
+It allows to navigate for each commit deciding interactively what to do.
+
+> $ git rebase -i
+
+--
+
+You can pick (or delete), reword commit message, edit code, squash, fixup or exec an
+command.
+
+--
+
+Automatically modify the rebase todo list:
+
+> $ git config --global rebase.autoSquash true
+
+???
+
+Problem to solve:
+
+> How to modify commits
+
+Clarify about pick, reword, edit, squash (merge commit message) and fixup
+(discard commit message) in rebase todo list.
+
+---
+
 ## Resolving conflicts
 
 `--ours` option: current branch changes checked out.
@@ -473,34 +501,6 @@ Problem to solve:
 > How to deal with conflict without using a Editor.
 
 Explain issues with '<<<<<<', '>>>>>>' or '======' in an Editor.
-
----
-
-## Rebase interactive
-
-It allows to navigate for each commit deciding interactively what to do.
-
-> $ git rebase -i
-
---
-
-You can pick (or delete), reword commit message, edit code, squash, fixup or exec an
-command.
-
---
-
-Automatically modify the rebase todo list:
-
-> $ git config --global rebase.autoSquash true
-
-???
-
-Problem to solve:
-
-> How to modify commits
-
-Clarify about pick, reword, edit, squash (merge commit message) and fixup
-(discard commit message) in rebase todo list.
 
 ---
 
