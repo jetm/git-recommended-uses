@@ -227,20 +227,6 @@ Show how to Get, Set and Unset Git options.
 
 ---
 
-## Git Reset/Checkout
-
-.center[![Centered image](images/reset-workflow.png)]
-
-???
-
-Problem to solve:
-
-> Understand how `git reset` and `git checkout` works.
-
-Mention use of `git reset --patch`
-
----
-
 ## Common Git aliases
 
 > $ git config --global alias.br branch
@@ -267,6 +253,20 @@ Where you're using Git, you will type commands more than you could imagine.
 
 If you're looking yourself typing a command more than two times, you should
 thinking to create an alias.
+
+---
+
+## Git Reset/Checkout
+
+.center[![Centered image](images/reset-workflow.png)]
+
+???
+
+Problem to solve:
+
+> Understand how `git reset` and `git checkout` works.
+
+Mention use of `git reset --patch`
 
 ---
 
