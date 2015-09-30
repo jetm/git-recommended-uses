@@ -18,6 +18,6 @@ With Python 3 use this command line:
 $ python -m http.server
 ```
 
-To avoid these steps, just [download the pdf file](Git_Recommended_Uses.pdf).
+To avoid these steps, just [download the pdf file](https://github.com/jetm/git-recommended-uses/raw/master/Git_Recommended_Uses.pdf).
 
 Presentation made using http://remarkjs.com/.
