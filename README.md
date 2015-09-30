@@ -10,7 +10,7 @@ $ cd git-recommended-uses
 $ python -m SimpleHTTPServer
 ```
 
-Open http://localhost:8000/ in a browser
+Open [http://localhost:8000/](http://localhost:8000/) in a browser
 
 With Python 3 use this command line:
 
