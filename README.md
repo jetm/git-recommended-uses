@@ -12,4 +12,10 @@ $ python -m SimpleHTTPServer
 
 Open http://localhost:8000/ in a browser
 
+With Python 3 use this command line:
+
+```sh
+$ python -m http.server
+```
+
 Presentation made using http://remarkjs.com/.
