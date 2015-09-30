@@ -21,3 +21,8 @@ $ python -m http.server
 To avoid these steps, just [download the pdf file](https://github.com/jetm/git-recommended-uses/raw/master/Git_Recommended_Uses.pdf).
 
 Presentation made using http://remarkjs.com/.
+
+## License
+
+CC0 1.0 Universal (CC0 1.0) 
+Public Domain
