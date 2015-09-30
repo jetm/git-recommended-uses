@@ -1,6 +1,6 @@
 # Git Recommended Uses
 
-Presentation Git Recommended Uses (Work in Progress)
+Git Recommended Uses presentation.
 
 ## Installation
 
