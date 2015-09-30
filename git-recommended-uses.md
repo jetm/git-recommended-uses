@@ -589,7 +589,7 @@ Problem to solve:
 
 ## References
 
-* This presentation: https://github.com/jetm/git-recommended-uses/
+* This presentation: https://github.com/jetm/git-recommended-uses/ or [pdf file](https://github.com/jetm/git-recommended-uses/raw/master/Git_Recommended_Uses.pdf).
 
 * Presentation made with: http://remarkjs.com/
 
