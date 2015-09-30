@@ -26,3 +26,6 @@ Presentation made using http://remarkjs.com/.
 
 CC0 1.0 Universal (CC0 1.0) 
 Public Domain
+
+For more information, please see
+<http://creativecommons.org/publicdomain/zero/1.0/>.
