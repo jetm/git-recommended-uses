@@ -593,6 +593,8 @@ Problem to solve:
 
 * Presentation made with: http://remarkjs.com/
 
+* My [.gitconfig file](https://github.com/jetm/dotfiles/blob/master/.gitconfig)
+
 ## Contact information
 
 * javier.tia@gmail.com / javier.tia@hpe.com
