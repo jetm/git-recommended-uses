@@ -24,7 +24,7 @@ Presentation made using http://remarkjs.com/.
 
 ## License
 
-CC0 1.0 Universal (CC0 1.0) 
+CC0 1.0 Universal (CC0 1.0)
 Public Domain
 
 For more information, please see
