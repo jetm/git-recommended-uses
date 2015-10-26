@@ -453,6 +453,14 @@ Automatically modify the rebase todo list:
 
 > $ git config --global rebase.autoSquash true
 
+--
+
+Automatically stash local changes, apply it when rebase finish:
+
+> $ git config --global rebase.autoStash true
+
+Require: Git v2.6.x+
+
 ???
 
 Problem to solve:
