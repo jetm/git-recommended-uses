@@ -354,12 +354,12 @@ features branches.
 
 --
 
-2. Use `git merge` when incorporating an entire feature set into another branch,
+2. Use **`git merge`** when incorporating an entire feature set into another branch,
 use `git rebase` for rest of cases.
 
 --
 
-3. Golden rule: Never use `git rebase` over published changes, only over new
+3. Golden rule: Never use **`git rebase`** over published changes, only over new
 and no pushed changes.
 
 ???
