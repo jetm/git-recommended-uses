@@ -1,6 +1,11 @@
-# Git Recommended Uses
+# Git Recommended Uses presentation
 
-Git Recommended Uses presentation.
+* No a proper Git training. It could take days.
+
+* It's a collection of recommendations have been put together through some
+years of experience.
+
+* I hope from knowledge shared here, can improve your frequent use of Git.
 
 ## Installation
 
