@@ -347,7 +347,7 @@ clean and semantically correct history graph.
 
 --
 
- Rules:
+ Three Rules:
 
 1. Work always with topic or temporal branches, avoid work over master or
 features branches.
