@@ -313,13 +313,26 @@ could be is too long all changes. Make it shorter.
 
 If it's too much rules, consider a good editor as helper, e.g.: Vim.
 
-Mention to install fit-commit
+---
+
+## Fit Commit Tool
+
+A Git hook to validate your commit messages based on community standards.
 
 ```sh
-$ gem install fit-commit
+$ git commit
+Adding a cool feature
+foobar foobar foobar,
+foobar foobar foobar foobar foobar foobar foobar foobar foobar foobar foobar
+
+1: Error: Message must use imperative present tense.
+2: Error: Second line must be blank.
+3: Error: Lines should be <= 72 chars. (76)
+
+Force commit? [y/n/e] ▊
 ```
 
-Every commit should respond to this question: "When applied, this commit will:"
+https://github.com/m1foley/fit-commit
 
 ---
 
