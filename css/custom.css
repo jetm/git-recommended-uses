@@ -1,0 +1,22 @@
+.remark-slide-content table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.remark-slide-content table td,
+.remark-slide-content table th {
+    padding: 3px 10px;
+}
+
+.remark-slide-content table thead th {
+    font-size: 20px;
+    font-weight: bold;
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+}
+
+.remark-slide-content table tbody td {
+    border-right: 1px solid #000000;
+    border-left: 1px solid #000000;
+    font-size: 20px;
+}
