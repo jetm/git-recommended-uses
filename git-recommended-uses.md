@@ -236,20 +236,6 @@ thinking to create an alias.
 
 ---
 
-## Git Reset/Checkout
-
-.center[![Centered image](images/reset-workflow.png)]
-
-???
-
-Problem to solve:
-
-> Understand how `git reset` and `git checkout` works.
-
-Mention use of `git reset --patch`
-
----
-
 ## Use Interactive mode to commit
 
 Interactively choose hunks between the index and the work tree and add them to
@@ -623,6 +609,20 @@ myself. First 'Linux', now 'git'."
 * After close accesses of Linux kernel developers to BitKeeper (SCM). Torvalds
 released the first Git version and the world of Control Version software
 started to change.
+
+---
+
+## Git Reset/Checkout
+
+.center[![Centered image](images/reset-workflow.png)]
+
+???
+
+Problem to solve:
+
+> Understand how `git reset` and `git checkout` works.
+
+Mention use of `git reset --patch`
 
 ---
 
