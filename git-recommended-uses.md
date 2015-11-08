@@ -136,11 +136,13 @@ Make an example how to practice in terminal.
 
 Assuming Ubuntu as Distribution.
 
-> $ sudo add-apt-repository ppa:git-core/ppa
+```sh
+$ sudo add-apt-repository ppa:git-core/ppa
 
-> $ sudo apt-get update
+$ sudo apt-get update
 
-> $ sudo apt-get install git
+$ sudo apt-get install git
+```
 
 ???
 
@@ -175,9 +177,11 @@ Problem to solve:
 
 Remember now you are an author. Identify yourself:
 
-> $ git config --global user.name "__YOUR NAME__"
+```sh
+$ git config --global user.name "__YOUR NAME__"
 
-> $ git config --global user.email "__YOUR EMAIL ADDRESS__"
+$ git config --global user.email "__YOUR EMAIL ADDRESS__"
+```
 
 ???
 
@@ -209,19 +213,21 @@ Show how to Get, Set and Unset Git options.
 
 ## Common Git aliases
 
-> $ git config --global alias.br branch
+```sh
+$ git config --global alias.br branch
 
-> $ git config --global alias.ci commit
+$ git config --global alias.ci commit
 
-> $ git config --global alias.co checkout
+$ git config --global alias.co checkout
 
-> $ git config --global alias.st status
+$ git config --global alias.st status
 
-> $ git config --global alias.ls ls-files
+$ git config --global alias.ls ls-files
 
-> $ git config --global alias.rb rebase
+$ git config --global alias.rb rebase
 
-> $ git config --global alias.mg merge
+$ git config --global alias.mg merge
+```
 
 ???
 
@@ -241,7 +247,9 @@ thinking to create an alias.
 Interactively choose hunks between the index and the work tree and add them to
 the index:
 
-> $ git add --patch
+```sh
+$ git add --patch
+```
 
 --
 
@@ -251,7 +259,9 @@ It gives the user a chance to review the changes before commit them.
 
 Consider use a shell alias:
 
-> $ alias giA='git add --patch'
+```sh
+$ alias giA='git add --patch'
+```
 
 ???
 
@@ -376,7 +386,9 @@ Clarify rebase concept. Show it in next slide.
 
 \* Always rebase your local commits and preserve all merges:
 
-> $ git config --global pull.rebase preserve
+```sh
+$ git config --global pull.rebase preserve
+```
 
 > _Require Git v1.8.5+_
 
@@ -413,7 +425,9 @@ Clarify fast-forward merges.
 
 It allows to navigate for each commit deciding interactively what to do.
 
-> $ git rebase -i
+```sh
+$ git rebase -i
+```
 
 --
 
@@ -424,13 +438,17 @@ command.
 
 Automatically modify the rebase todo list:
 
-> $ git config --global rebase.autoSquash true
+```sh
+$ git config --global rebase.autoSquash true
+```
 
 --
 
 Automatically stash local changes, apply it when rebase finish:
 
-> $ git config --global rebase.autoStash true
+```sh
+$ git config --global rebase.autoStash true
+```
 
 Require: Git v2.6.x+
 
@@ -461,25 +479,30 @@ Clarify about pick, reword, edit, squash (merge commit message) and fixup
 
 Normal way:
 
-> $ git checkout --ours/--theirs &lt;FILE&gt;
+```sh
+$ git checkout --ours/--theirs <FILE>
 
-> $ git add &lt;FILE&gt;
+$ git add <FILE>
+```
 
 --
 
 Using alias:
 
-> $ git config --global alias.our = ours = "!f() { \
+```sh
+$ git config --global alias.our = ours = "!f() { \
+      git checkout --ours $@ && git add $@; }; f"
 
-> &nbsp; &nbsp;git checkout --ours $@ && git add $@; }; f"
-
-> $ git ours &lt;FILE&gt;
+$ git ours <FILE>
+```
 
 --
 
 For repeated resolution of conflicts:
 
-> $ git config --global rerere.enabled true
+```sh
+$ git config --global rerere.enabled true
+```
 
 ???
 
@@ -495,7 +518,9 @@ Explain issues with '<<<<<<', '>>>>>>' or '======' in an Editor.
 
 Saves local modifications and produce a clean state:
 
-> $ git stash
+```sh
+$ git stash
+```
 
 --
 
@@ -558,7 +583,9 @@ Talk about `git clean` options.
 
 Add color helpers to read text easier and see what Git is doing:
 
-> $ git config --global color.ui true
+```sh
+$ git config --global color.ui true
+```
 
 --
 
@@ -643,15 +670,21 @@ Mention use of `git reset --patch`
 
 No rewriting history:
 
-> $ git config receive.denyNonFastForwards true
+```sh
+$ git config receive.denyNonFastForwards true
+```
 
 No deleting history:
 
-> $ git config receive.denyDeletes true
+```sh
+$ git config receive.denyDeletes true
+```
 
 Check object consistency:
 
-> $ git config receive.fsckObjects true
+```sh
+$ git config receive.fsckObjects true
+```
 
 ???
 
