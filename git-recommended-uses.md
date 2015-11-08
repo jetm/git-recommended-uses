@@ -372,12 +372,6 @@ Clarify rebase concept. Show it in next slide.
 
 ---
 
-## Rebase concept
-
-.center[![Centered image](images/git-rebase.gif)]
-
----
-
 ## Keep clean and correct Git history
 
 \* Always rebase your local commits and preserve all merges:
@@ -448,6 +442,12 @@ Problem to solve:
 
 Clarify about pick, reword, edit, squash (merge commit message) and fixup
 (discard commit message) in rebase todo list.
+
+---
+
+## Rebase concept
+
+.center[![Centered image](images/git-rebase.gif)]
 
 ---
 
