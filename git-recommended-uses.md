@@ -605,6 +605,12 @@ Problem to solve:
 
 ---
 
+## xkcd: Git
+
+.center[![Centered image](images/xkcd-git.png)]
+
+---
+
 ## References
 
 * This presentation: https://github.com/jetm/git-recommended-uses/ or [pdf file](https://github.com/jetm/git-recommended-uses/raw/master/Git_Recommended_Uses.pdf).
