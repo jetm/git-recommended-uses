@@ -274,7 +274,7 @@ Structure of a commit message:
 
 --
 
- Rules:
+Seven Rules:
 
 1. Write subject line thinking: What am I doing?
 
