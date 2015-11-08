@@ -66,31 +66,6 @@ to Centralized approach. It's not Subversion, but it can be used similar.
 
 ---
 
-## Little Git History
-
-* Created in 2005 by Linus Torvalds and maintained today by Junio Hamano.
-
---
-
-* Meaning 'git' as word: unpleasant person.
-
---
-
-* Git arrived as a necessity.
-
-???
-
-* Created 10 years ago, patches and many contributors and thousands contributions.
-
-* Torvalds said: "I'm an egotistical bastard, and I name all my projects after
-myself. First 'Linux', now 'git'."
-
-* After close accesses of Linux kernel developers to BitKeeper (SCM). Torvalds
-released the first Git version and the world of Control Version software
-started to change.
-
----
-
 ## Why Git and no another SCM
 
 .center[![Centered image](images/git-job-trends-indeed.com.png)]
@@ -618,6 +593,31 @@ class: center, middle
 class: center, middle
 
 # Backup slides
+
+---
+
+## Little Git History
+
+* Created in 2005 by Linus Torvalds and maintained today by Junio Hamano.
+
+--
+
+* Meaning 'git' as word: unpleasant person.
+
+--
+
+* Git arrived as a necessity.
+
+???
+
+* Created 10 years ago, patches and many contributors and thousands contributions.
+
+* Torvalds said: "I'm an egotistical bastard, and I name all my projects after
+myself. First 'Linux', now 'git'."
+
+* After close accesses of Linux kernel developers to BitKeeper (SCM). Torvalds
+released the first Git version and the world of Control Version software
+started to change.
 
 ---
 
