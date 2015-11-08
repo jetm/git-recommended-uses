@@ -28,10 +28,15 @@ utilities.
 
 ---
 
-## Expectations
+## About this presentation
 
-* I expect from this presentation you can take some knowledge and apply it to
-your frequent Git routine.
+* No a proper Git training. It could take days.
+
+* It's a collection of recommendations have been put together through some
+years of experience.
+
+* From this presentation you can take some knowledge and improve your frequent
+Git routine.
 
 ---
 
