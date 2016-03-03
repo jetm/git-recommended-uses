@@ -100,6 +100,8 @@ was a big deal on that time.
 
   * http://gitimmersion.com/
 
+  * http://pcottle.github.io/learnGitBranching/
+
   * http://git-scm.com/book/
 
 --
